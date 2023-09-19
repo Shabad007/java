@@ -1,6 +1,6 @@
 class Main {
   public static void main(String[] args) {
-    int a,b;  //declration 
+    int a,b;  //declaration 
     a=6;  //initialization
       b=3;
       //int x = a%b;//modulo operator (remainder)
