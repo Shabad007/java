@@ -1,7 +1,8 @@
 import java.util.Scanner;
 class Main {
  public static void main(String[] args) {
-Scanner reader = new Scanner(System.in);              System.out.println("Enter your age: ");
+Scanner reader = new Scanner(System.in);              
+System.out.println("Enter your age: ");
 int age = reader.nextInt();
 if (age>=65) {
 System.out.println("You are a senior citizen");
