@@ -8,7 +8,6 @@ public class Main {
         System.out.print("Enter the month number (1 for January, 2 for February, and so on): ");
         int month = scanner.nextInt();
 
-        
         int daysInMonth;
         switch (month) {
             case 1:  // January
